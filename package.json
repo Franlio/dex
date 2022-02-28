@@ -14,7 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
-    "@openzeppelin/contracts": "^4.0.0",
-    "@openzeppelin/test-helpers": "^0.5.5"
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "babel-jest": "^24.9.0",
+    "babel-loader": "^8.1.0",
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0",
+    "react-scripts": "^5.0.0",
+    "webpack": "^4.42.0",
+    "webpack-dev-server": "^3.11.0"
   }
 }
