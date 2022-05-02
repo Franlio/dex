@@ -6,7 +6,7 @@ This repo is a demo of decentralize exchange for ERC20 tokens.
 
 Install the required packages inside the project directory
 
-```zsh
+```bash
 npm install
 npm install @openzeppelin/contracts @openzeppelin/test-helpers 
 ```
